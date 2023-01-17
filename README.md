@@ -4,3 +4,5 @@
 ### ***game.py***
     Содежит игру угадай число, загаданное случайным образом.
 ---
+
+***All errors and suggestions can be asked to me.***
